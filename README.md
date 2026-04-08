@@ -1,3 +1,15 @@
 ## Salve piazadinha 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+# 👋 Olá, me chamo Rodrigo de Souza
+
+💻 Estudando Front-end  
+🎤 Musico
+🍸 Barman 
+
+## 🛠️ Tecnologias
+- JavaScript
+- HTML & CSS
+- Angular
+
+## 📊 Estatísticas
+![GitHub stats](https://github-readme-stats-sage-six-40.vercel.app/api?username=frontenddigo)
