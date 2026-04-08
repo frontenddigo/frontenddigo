@@ -1,3 +1,6 @@
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00,100:ff&height=200&section=header&text=Frontend%20Digo&fontSize=40&fontColor=ffffff)
+
+
 ## Salve piazadinha 👋
 
 # 👋 Olá, me chamo Rodrigo de Souza
