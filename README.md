@@ -1,5 +1,5 @@
 
-<p align="center">Salve piazadinha 👋</p>
+<h1 align="center">Salve piazadinha 👋</h1>
 
 # 👋 Olá, me chamo Rodrigo de Souza
 
