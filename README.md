@@ -1,7 +1,7 @@
 
 <h1 align="center">Salve piazadinha 👋</h1>
 
-# 👋 Olá, me chamo Rodrigo de Souza
+<h2 align="center"> 👋 Olá, me chamo Rodrigo de Souza</h2>
 
 💻 Estudando Front-end  
 🎤 Musico
