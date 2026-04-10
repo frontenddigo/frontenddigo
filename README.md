@@ -15,3 +15,4 @@
 ## 📊 Estatísticas
 ![GitHub stats](https://github-readme-stats-sage-six-40.vercel.app/api?username=frontenddigo&theme=tokyonight)
 ![Streak](https://streak-stats.demolab.com/?user=frontenddigo&theme=radical)
+![Snake animation](https://github.com/seu-usuario/seu-usuario/blob/output/github-contribution-grid-snake.svg)
