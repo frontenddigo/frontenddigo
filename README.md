@@ -16,7 +16,3 @@
 ![GitHub stats](https://github-readme-stats-sage-six-40.vercel.app/api?username=frontenddigo&theme=tokyonight)
 
 ![Streak](https://streak-stats.demolab.com/?user=frontenddigo&theme=radical)
-
-![Snake animation](https://github.com/seu-usuario/seu-usuario/blob/output/github-contribution-grid-snake.svg)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FrontEndDigo&theme=radical&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&exclude_days=Fri%2CSat&border=EB0505)](https://git.io/streak-stats)
